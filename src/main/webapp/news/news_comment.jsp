@@ -11,16 +11,14 @@
 <body>
 <div class="body">
     <div class="top">
-        资讯 > 资讯审核
+        资讯 > 资讯管理 > 资讯评论
     </div>
     <div class="top2">
         <table style="width: 100%">
             <tr>
                 <td width="6%" class="tab_td">标题</td>
-                <td class="tab_td"><input class="title_text" type="text"/></td>
-                <td width="10%" class="tab_td">
-                    <button>搜索</button>
-                </td>
+                <td class="tab_td" colspan="2">三闾大夫沃尔夫五色风</td>
+
             </tr>
         </table>
     </div>
@@ -28,40 +26,31 @@
 
     </table>
     <div class="button_add">
-        <button >通过</button>
-        <button>返回</button>
+
+        <button>删除评论</button>
     </div>
     <table class="table_newlist" border="1" cellpadding="0"  cellspacing="0">
         <tr>
             <td width="5%" class="tab_td_bg"></td>
-            <td class="tab_td_bg">标题</td>
-            <td width="26%" class="tab_td_bg">创建时间</td>
-            <td width="20%" class="tab_td_bg"></td>
+            <td  width="10%"class="tab_td_bg">昵称</td>
+            <td class="tab_td_bg">内容</td>
+
 
         </tr>
         <tr>
             <td></td>
-            <td>标题标题标题标题标题标题标题</td>
-
-            <td>2013-10-03 16:11</td>
-            <td>详情</td>
-
+            <td>张三</td>
+            <td>我了个去</td>
         </tr>
         <tr>
             <td></td>
-            <td>标题标题标题标题标题标题标题</td>
-
-            <td>2013-10-03 16:11</td>
-            <td>详情</td>
-
+            <td>李四</td>
+            <td>我靠了，松岛枫松岛枫搜房！</td>
         </tr>
         <tr>
             <td></td>
-            <td>标题标题标题标题标题标题标题</td>
-
-            <td>2013-10-03 16:11</td>
-            <td>详情</td>
-
+            <td>小王</td>
+            <td>888</td>
         </tr>
 
     </table>

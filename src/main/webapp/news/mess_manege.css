@@ -4,24 +4,72 @@
 	border:#000 solid 1px;
      font-family: "微软雅黑";
 	width:800px;
+    height: 550px;
+    float: left;
 	}
+.body button{
+    width: 70px;
+}
 	
 .top{
 	border:#000 solid 1px;
-	width:760px;
+	width:95%;
 	height:25px;
 	margin: 10px auto;
 	text-align:left;
 	padding:0 0 0 15px;
     font-size: 14px;
 }
+.top2{
+    border:#000 solid 1px;
+    width:97%;
+    height:40px;
+    margin:10px auto;
+    padding: 7px 0 0 0;
+    text-align:center;
+
+    font-size: 14px;
+}
+
+.table_newlist{
+    width: 97%;
+
+    margin:10px auto;
+    padding: 0;
+
+}
+.table_newlist td{
+    margin-left: 5px;
+    padding-left: 10px;
+    font-size: 13px;
+
+}
+.tr{
+    margin: 0;
+    padding: 0;
+}
+
+.button_add{
+    border:0px red solid;padding:0 0 0 0;width:97%; margin: auto;
+}
+.tab_td{
+    font-size: 14px ;
+   margin-left: 5px;
+    padding-left: 10px;
+}
+.tab_td_bg{
+    border: 1px #000000 solid;
+    background: #b6b6b6;
+    margin-left: 5px;
+    padding-left: 10px;
+}
 
 .table{
-
+    width:85%;
 	margin:auto;
-    margin-top: 6px;
+
     margin-bottom: 10px;
-	padding:10px;
+
 	}
 	
 .title_text{
@@ -36,7 +84,7 @@
 }
 
 .button{
-	width:50px;
+	width:70px;
 }
 
 

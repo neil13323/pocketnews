@@ -28,10 +28,10 @@
 <body onload="return onLoad();">
 <div class="body">
     <div class="top">
-        内容 > 资讯管理 > 修改资讯
+        资讯 > 资讯管理 > 修改资讯
     </div>
     <!--center-->
-    <table class="table">
+    <table class="table" cellpadding="0"  cellspacing="0">
         <tr>
             <td>标题</td>
             <td colspan="2"><input class="title_text" type="text" value="我是新闻标题！！！！！！"></td>

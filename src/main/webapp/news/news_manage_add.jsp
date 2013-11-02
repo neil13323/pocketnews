@@ -17,14 +17,14 @@
         //-->
     </script>
 </head>
-<!--在body元素的onload事件中调用函数onLoad()-->
+
 <body onload="return onLoad();">
 <div class="body">
     <div class="top">
-        内容 > 资讯管理 > 增加资讯
+        资讯 > 资讯管理 > 增加资讯
     </div>
     <!--center-->
-    <table class="table">
+    <table class="table" cellpadding="0"  cellspacing="0">
         <tr>
             <td>标题</td>
             <td colspan="2"><input class="title_text" type="text"/></td>
