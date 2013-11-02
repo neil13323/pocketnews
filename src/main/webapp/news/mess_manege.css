@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+.body{
+	border:#000 solid 1px;
+     font-family: "微软雅黑";
+	width:800px;
+	}
+	
+.top{
+	border:#000 solid 1px;
+	width:760px;
+	height:25px;
+	margin: 10px auto;
+	text-align:left;
+	padding:0 0 0 15px;
+    font-size: 14px;
+}
+
+.table{
+
+	margin:auto;
+    margin-top: 6px;
+    margin-bottom: 10px;
+	padding:10px;
+	}
+	
+.title_text{
+	width:100%;
+}
+.title_select{
+    width:100%;
+}
+
+.img_text{
+	width:500px;
+}
+
+.button{
+	width:50px;
+}
+
+
